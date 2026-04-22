@@ -1,4 +1,4 @@
-# ChatZOC Hotline — Intelligent Ophthalmology Customer-Service Agent
+# ChatZOC Hotline — Patient Guide Agent
 
 A Flask-based intelligent hotline service for **Zhongshan Ophthalmic Center (ZOC), Sun Yat-sen University**.
 It combines a local **Retrieval-Augmented Generation (RAG)** pipeline — built on ChromaDB + a sentence-embedding model — with the in-house **ChatZOC** large language model to answer patient phone-call questions about registration, triage, medical-insurance fees, disease consultation, surgery scheduling, and more.
